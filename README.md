@@ -19,4 +19,4 @@ pyinstaller -F -w file.py  # 打包成一个单一的exe文件，并且不输出
 pyinstaller -F -w -i hello.ico file.py  # 打包成一个单一的exe文件，并且不输出cmd命令框，并且把hello.ico设为exe的图标
 ```
 
->你可以忘记一切，但是千万不要忘记爱自己
+> 你可以忘记一切，但是千万不要忘记爱自己❤  2020.03.03
